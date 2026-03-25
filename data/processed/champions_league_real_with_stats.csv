@@ -1,0 +1,315 @@
+match_id,competition,season,date,home_team,away_team,home_goals,away_goals,matchday,stage,home_shots,away_shots,home_shots_on_target,away_shots_on_target,home_corners,away_corners,home_yellow_cards,away_yellow_cards,home_red_cards,away_red_cards,home_fouls,away_fouls,home_possession,away_possession,home_xg,away_xg,first_half_home_goals,first_half_away_goals,minute_first_goal,home_goals_0_15,away_goals_0_15,home_goals_75_90,away_goals_75_90
+03274aa5edcb,champions_league,2023,2023-09-19,AC Milan,Newcastle United FC,0,0,1.0,GROUP_STAGE,12,6,3,2,6,6,1,3,0,0,15,11,53.3,46.7,0.1,0.12,0,0,0,0,0,0,0
+fe9febb99def,champions_league,2023,2023-09-19,BSC Young Boys,RB Leipzig,1,3,1.0,GROUP_STAGE,14,13,4,4,6,3,4,3,0,0,14,12,54.2,45.8,1.54,3.03,0,1,72,0,1,0,1
+f7d52d6a8898,champions_league,2023,2023-09-19,SS Lazio,Club Atlético de Madrid,1,1,1.0,GROUP_STAGE,13,12,5,4,5,7,0,1,0,0,11,8,42.8,57.2,0.63,0.74,0,0,1,0,0,1,1
+e388c7074f84,champions_league,2023,2023-09-19,Feyenoord Rotterdam,Celtic FC,2,0,1.0,GROUP_STAGE,15,10,6,3,7,3,1,2,0,0,10,11,56.2,43.8,1.26,0.1,1,0,14,0,0,1,0
+5bf1ba0290f6,champions_league,2023,2023-09-19,Paris Saint-Germain FC,Borussia Dortmund,2,0,1.0,GROUP_STAGE,9,7,4,3,8,5,4,2,0,0,12,12,40.2,59.8,2.78,0.72,1,0,69,1,0,0,0
+7c4d708b50f6,champions_league,2023,2023-09-19,Manchester City FC,FK Crvena Zvezda,3,1,1.0,GROUP_STAGE,15,15,7,6,6,5,3,2,0,0,11,15,41.0,59.0,3.08,1.12,1,1,9,1,0,0,0
+da9b90abb9b4,champions_league,2023,2023-09-19,FC Barcelona,Royal Antwerp FC,5,0,1.0,GROUP_STAGE,12,4,4,1,7,2,4,1,0,0,10,13,39.1,60.9,4.57,0.1,5,0,46,2,0,0,0
+48d2ba14e241,champions_league,2023,2023-09-19,FK Shakhtar Donetsk,FC Porto,1,3,1.0,GROUP_STAGE,8,12,2,5,8,4,1,1,0,0,8,9,43.0,57.0,1.52,2.8,1,0,60,0,0,0,3
+70902d7ed7d1,champions_league,2023,2023-09-20,Arsenal FC,PSV,4,0,1.0,GROUP_STAGE,17,13,8,5,5,5,3,3,0,0,18,11,56.3,43.7,2.9,1.1,2,0,21,1,0,1,0
+6e1a286433b2,champions_league,2023,2023-09-20,FC Bayern München,Manchester United FC,4,3,1.0,GROUP_STAGE,19,14,7,7,5,5,4,0,0,0,16,13,59.2,40.8,4.32,2.71,3,2,65,1,0,1,0
+0b1617965370,champions_league,2023,2023-09-20,Sport Lisboa e Benfica,FC Red Bull Salzburg,0,2,1.0,GROUP_STAGE,8,10,4,5,10,5,0,1,1,0,7,11,61.9,38.1,0.1,1.84,0,1,88,0,0,0,0
+2d5fa91260cf,champions_league,2023,2023-09-20,Real Sociedad de Fútbol,FC Internazionale Milano,1,1,1.0,GROUP_STAGE,13,12,4,5,8,6,0,2,0,0,7,14,58.7,41.3,1.04,1.17,1,0,77,0,0,0,1
+9d647eebdb86,champions_league,2023,2023-09-20,Galatasaray SK,FC København,2,2,1.0,GROUP_STAGE,17,11,5,5,4,7,0,0,0,0,9,10,43.5,56.5,1.03,2.02,2,1,28,1,0,0,0
+ea92762d86c7,champions_league,2023,2023-09-20,Sevilla FC,Racing Club de Lens,1,1,1.0,GROUP_STAGE,9,9,3,3,6,3,1,2,0,0,14,13,53.7,46.3,1.01,1.13,0,0,34,0,0,0,1
+466614ed0b83,champions_league,2023,2023-09-20,Real Madrid CF,1. FC Union Berlin,1,0,1.0,GROUP_STAGE,12,9,5,3,1,2,3,3,0,0,10,11,47.1,52.9,1.7,0.57,0,0,8,0,0,1,0
+85c1ef8fffcb,champions_league,2023,2023-09-20,Sporting Clube de Braga,SSC Napoli,1,2,1.0,GROUP_STAGE,8,10,3,5,2,7,1,1,0,0,13,9,55.9,44.1,0.64,2.7,0,0,7,0,0,0,0
+e70f28d6d239,champions_league,2023,2023-10-03,Manchester United FC,Galatasaray SK,2,3,2.0,GROUP_STAGE,14,11,7,3,2,5,4,3,0,0,11,14,38.2,61.8,2.27,3.33,1,3,28,1,2,1,0
+5d443a9639a6,champions_league,2023,2023-10-03,PSV,Sevilla FC,2,2,2.0,GROUP_STAGE,8,9,3,4,5,10,2,3,0,0,14,14,48.3,51.7,2.02,1.77,0,1,44,0,1,0,0
+60deedab3067,champions_league,2023,2023-10-03,Racing Club de Lens,Arsenal FC,2,1,2.0,GROUP_STAGE,11,13,3,5,7,4,1,1,0,0,10,15,50.9,49.1,0.9,0.81,0,0,85,0,0,0,0
+c0cdd8107a58,champions_league,2023,2023-10-03,FC København,FC Bayern München,1,2,2.0,GROUP_STAGE,11,10,3,3,7,9,2,2,0,0,13,15,59.6,40.4,1.38,1.96,0,2,29,0,0,0,0
+af0a71032ab2,champions_league,2023,2023-10-03,FC Red Bull Salzburg,Real Sociedad de Fútbol,0,2,2.0,GROUP_STAGE,10,13,5,4,1,3,1,5,0,0,9,16,43.7,56.3,0.35,1.68,0,1,69,0,0,0,0
+143d33265af5,champions_league,2023,2023-10-03,SSC Napoli,Real Madrid CF,2,3,2.0,GROUP_STAGE,11,7,4,3,5,4,0,2,0,0,13,11,56.4,43.6,2.26,3.18,1,1,70,0,0,1,0
+c9815d28e75b,champions_league,2023,2023-10-03,1. FC Union Berlin,Sporting Clube de Braga,2,3,2.0,GROUP_STAGE,12,12,3,6,6,6,3,1,0,0,9,11,50.9,49.1,2.2,3.41,1,1,40,1,0,0,1
+db994d5f788f,champions_league,2023,2023-10-03,FC Internazionale Milano,Sport Lisboa e Benfica,1,0,2.0,GROUP_STAGE,16,8,5,3,7,2,1,2,0,0,9,7,56.1,43.9,0.16,0.1,0,0,57,0,0,1,0
+e504ad42bf36,champions_league,2023,2023-10-04,Club Atlético de Madrid,Feyenoord Rotterdam,3,2,2.0,GROUP_STAGE,16,12,6,4,1,12,3,4,0,0,10,7,57.2,42.8,2.36,1.89,3,1,10,1,0,0,0
+bf65ec6e09fc,champions_league,2023,2023-10-04,Royal Antwerp FC,FK Shakhtar Donetsk,2,3,2.0,GROUP_STAGE,12,14,6,7,6,3,0,0,0,0,12,7,48.6,51.4,2.32,2.6,1,1,22,1,1,0,1
+581901cd66c7,champions_league,2023,2023-10-04,Celtic FC,SS Lazio,1,2,2.0,GROUP_STAGE,8,13,4,4,3,0,2,3,1,0,5,16,47.8,52.2,2.47,1.9,0,1,59,0,0,0,0
+afd5f99cfb84,champions_league,2023,2023-10-04,Borussia Dortmund,AC Milan,0,0,2.0,GROUP_STAGE,6,9,2,4,3,6,4,2,0,0,17,8,44.8,55.2,0.59,0.46,0,0,0,0,0,0,0
+8b4d2876bd20,champions_league,2023,2023-10-04,Newcastle United FC,Paris Saint-Germain FC,4,1,2.0,GROUP_STAGE,12,11,5,3,7,7,1,2,0,0,13,11,49.7,50.3,4.31,1.51,4,0,62,1,0,0,0
+6b7593556bc6,champions_league,2023,2023-10-04,FK Crvena Zvezda,BSC Young Boys,2,2,2.0,GROUP_STAGE,17,10,5,3,5,4,1,0,0,0,5,9,50.1,49.9,1.64,2.0,1,1,31,0,1,0,0
+9f2f0fd01a90,champions_league,2023,2023-10-04,RB Leipzig,Manchester City FC,1,3,2.0,GROUP_STAGE,16,11,4,3,2,4,0,0,0,0,8,11,47.7,52.3,1.09,2.39,0,1,41,0,0,0,1
+9194f52773d3,champions_league,2023,2023-10-04,FC Porto,FC Barcelona,0,1,2.0,GROUP_STAGE,7,12,3,4,5,4,2,0,0,0,11,12,60.4,39.6,0.38,1.59,0,1,83,0,0,0,0
+ff80e942c991,champions_league,2023,2023-10-24,Sevilla FC,Arsenal FC,1,2,3.0,GROUP_STAGE,14,11,6,3,3,7,2,3,0,0,12,11,41.9,58.1,1.72,1.76,0,0,20,0,0,0,0
+02381f0ee33e,champions_league,2023,2023-10-24,Racing Club de Lens,PSV,1,1,3.0,GROUP_STAGE,10,12,4,4,6,4,2,4,1,0,16,6,51.1,48.9,1.04,0.77,0,0,6,0,0,0,0
+032c7d122583,champions_league,2023,2023-10-24,Sport Lisboa e Benfica,Real Sociedad de Fútbol,0,1,3.0,GROUP_STAGE,12,10,5,5,8,2,4,2,0,0,9,14,55.2,44.8,0.12,0.96,0,1,7,0,0,0,0
+f392e7beef23,champions_league,2023,2023-10-24,Manchester United FC,FC København,1,0,3.0,GROUP_STAGE,15,10,7,3,3,3,3,1,0,0,10,11,40.2,59.8,1.34,0.1,0,0,34,0,0,0,0
+2a694bb2fd77,champions_league,2023,2023-10-24,1. FC Union Berlin,SSC Napoli,0,1,3.0,GROUP_STAGE,12,10,5,4,3,3,1,2,0,0,8,13,61.6,38.4,0.49,1.84,0,0,14,0,0,0,1
+e32901f9390c,champions_league,2023,2023-10-24,Sporting Clube de Braga,Real Madrid CF,1,2,3.0,GROUP_STAGE,16,11,8,5,3,5,1,2,0,0,8,5,60.5,39.5,0.27,2.11,1,2,27,0,1,0,0
+45c57b90bb24,champions_league,2023,2023-10-24,Galatasaray SK,FC Bayern München,1,3,3.0,GROUP_STAGE,7,12,2,4,7,3,1,0,0,0,17,14,50.1,49.9,1.21,3.12,1,3,79,0,1,0,0
+3691a7146460,champions_league,2023,2023-10-24,FC Internazionale Milano,FC Red Bull Salzburg,2,1,3.0,GROUP_STAGE,16,5,6,2,5,7,4,2,0,0,13,14,45.2,54.8,2.42,1.37,2,1,28,1,1,0,0
+a3a037597da7,champions_league,2023,2023-10-25,Feyenoord Rotterdam,SS Lazio,3,1,3.0,GROUP_STAGE,14,9,4,4,5,4,1,1,0,0,14,12,59.6,40.4,3.44,1.45,2,0,80,0,0,1,1
+30a00474200a,champions_league,2023,2023-10-25,FC Barcelona,FK Shakhtar Donetsk,2,1,3.0,GROUP_STAGE,17,11,8,3,6,3,4,3,0,0,7,11,56.0,44.0,1.73,1.66,2,1,53,0,0,0,0
+5abfa0eb6f56,champions_league,2023,2023-10-25,Celtic FC,Club Atlético de Madrid,2,2,3.0,GROUP_STAGE,13,10,4,5,8,5,4,3,0,0,15,11,57.3,42.7,2.28,2.48,2,1,59,0,0,0,1
+75853efe21a6,champions_league,2023,2023-10-25,Paris Saint-Germain FC,AC Milan,3,0,3.0,GROUP_STAGE,14,10,6,3,5,4,1,2,0,0,8,12,46.4,53.6,2.86,0.13,3,0,36,1,0,0,0
+3f0383c78769,champions_league,2023,2023-10-25,Newcastle United FC,Borussia Dortmund,0,1,3.0,GROUP_STAGE,13,11,5,5,7,4,3,3,0,0,14,12,46.4,53.6,0.1,0.77,0,0,15,0,0,0,0
+5e5a890a44e2,champions_league,2023,2023-10-25,BSC Young Boys,Manchester City FC,1,3,3.0,GROUP_STAGE,11,14,3,6,9,4,1,0,0,0,8,13,59.0,41.0,1.92,2.96,1,2,56,0,0,0,0
+16a70f4e5a09,champions_league,2023,2023-10-25,RB Leipzig,FK Crvena Zvezda,3,1,3.0,GROUP_STAGE,13,7,4,2,4,4,3,0,0,0,7,13,52.5,47.5,2.86,0.9,1,0,69,1,0,0,0
+a5acfe6378e2,champions_league,2023,2023-10-25,Royal Antwerp FC,FC Porto,1,4,3.0,GROUP_STAGE,12,15,6,7,8,3,4,4,0,0,12,15,54.5,45.5,1.02,4.08,0,2,16,0,1,1,0
+1ea30607d6b1,champions_league,2023,2023-11-07,FK Crvena Zvezda,RB Leipzig,1,2,4.0,GROUP_STAGE,10,11,5,5,2,8,1,3,0,0,10,14,43.9,56.1,1.18,2.97,0,1,29,0,1,1,1
+8cd1ef162c55,champions_league,2023,2023-11-07,Manchester City FC,BSC Young Boys,3,0,4.0,GROUP_STAGE,13,7,6,3,2,7,1,3,0,0,8,8,52.7,47.3,3.04,0.46,1,0,52,1,0,0,0
+35ad0021978f,champions_league,2023,2023-11-07,AC Milan,Paris Saint-Germain FC,2,1,4.0,GROUP_STAGE,19,16,6,5,3,3,2,0,1,0,18,12,57.6,42.4,2.54,0.96,1,1,61,0,0,1,0
+75434c073ab6,champions_league,2023,2023-11-07,FC Porto,Royal Antwerp FC,2,0,4.0,GROUP_STAGE,12,12,4,5,7,5,0,0,0,0,16,13,42.2,57.8,1.99,0.9,0,0,18,0,0,1,0
+b84f7891947a,champions_league,2023,2023-11-07,Club Atlético de Madrid,Celtic FC,6,0,4.0,GROUP_STAGE,21,2,9,0,4,4,0,2,0,0,9,11,47.7,52.3,4.9,0.1,4,0,66,1,0,0,0
+c8c5818ee751,champions_league,2023,2023-11-07,FK Shakhtar Donetsk,FC Barcelona,1,0,4.0,GROUP_STAGE,16,9,8,4,7,3,1,3,0,0,10,14,42.6,57.4,1.26,0.3,0,0,39,0,0,1,0
+798dd751bdb3,champions_league,2023,2023-11-07,Borussia Dortmund,Newcastle United FC,2,0,4.0,GROUP_STAGE,10,11,3,4,0,3,1,0,0,0,5,9,55.3,44.7,1.97,0.1,1,0,17,0,0,0,0
+9ec6f526161d,champions_league,2023,2023-11-07,SS Lazio,Feyenoord Rotterdam,1,0,4.0,GROUP_STAGE,13,11,6,4,4,0,2,1,0,0,16,15,49.4,50.6,1.07,0.68,1,0,12,0,0,0,0
+cce960b57988,champions_league,2023,2023-11-08,Arsenal FC,Sevilla FC,2,0,4.0,GROUP_STAGE,10,5,3,2,7,3,4,4,1,0,18,12,57.2,42.8,2.99,0.48,1,0,87,0,0,0,0
+22cf7a613846,champions_league,2023,2023-11-08,FC København,Manchester United FC,4,3,4.0,GROUP_STAGE,15,14,7,7,7,6,2,1,0,0,13,14,60.7,39.3,3.76,2.54,1,2,70,1,1,0,0
+8973313af682,champions_league,2023,2023-11-08,FC Bayern München,Galatasaray SK,2,1,4.0,GROUP_STAGE,13,14,5,4,5,3,3,0,0,0,11,10,39.5,60.5,1.81,1.55,1,0,75,0,0,0,0
+894f8b2f9b03,champions_league,2023,2023-11-08,PSV,Racing Club de Lens,1,0,4.0,GROUP_STAGE,15,7,7,3,6,4,2,1,0,0,17,13,57.2,42.8,1.48,0.36,1,0,51,0,0,0,0
+16edef0354c1,champions_league,2023,2023-11-08,Real Madrid CF,Sporting Clube de Braga,3,0,4.0,GROUP_STAGE,14,12,6,4,6,5,3,3,0,0,13,8,58.2,41.8,3.18,1.26,1,0,35,0,0,0,0
+ac6ed12279ee,champions_league,2023,2023-11-08,Real Sociedad de Fútbol,Sport Lisboa e Benfica,3,1,4.0,GROUP_STAGE,13,3,6,1,4,5,3,2,0,0,12,14,57.6,42.4,3.15,0.41,0,0,32,0,0,0,0
+021be59880a0,champions_league,2023,2023-11-08,SSC Napoli,1. FC Union Berlin,1,1,4.0,GROUP_STAGE,6,4,3,1,1,6,5,1,0,0,12,5,57.2,42.8,1.51,1.58,0,0,79,0,0,1,0
+feebf98fda78,champions_league,2023,2023-11-08,FC Red Bull Salzburg,FC Internazionale Milano,0,1,4.0,GROUP_STAGE,13,9,4,3,4,5,6,5,0,0,5,11,46.1,53.9,0.22,0.32,0,0,28,0,0,0,0
+517c9c37ac89,champions_league,2023,2023-11-28,SS Lazio,Celtic FC,2,0,5.0,GROUP_STAGE,14,12,4,4,3,2,2,4,0,0,10,10,52.2,47.8,2.76,0.47,1,0,34,1,0,1,0
+4325de851b96,champions_league,2023,2023-11-28,FK Shakhtar Donetsk,Royal Antwerp FC,1,0,5.0,GROUP_STAGE,12,11,4,4,4,4,5,4,0,0,11,5,47.1,52.9,1.51,0.58,1,0,54,0,0,0,0
+6d0da5bc5c6f,champions_league,2023,2023-11-28,Feyenoord Rotterdam,Club Atlético de Madrid,1,3,5.0,GROUP_STAGE,13,15,4,8,8,6,1,0,0,0,10,10,44.1,55.9,0.51,2.69,1,1,84,1,1,0,0
+fc2cbfdfac4f,champions_league,2023,2023-11-28,AC Milan,Borussia Dortmund,1,3,5.0,GROUP_STAGE,10,14,4,5,6,5,4,0,0,0,15,5,39.0,61.0,1.37,3.59,1,3,28,1,1,0,0
+e5952e016fcb,champions_league,2023,2023-11-28,Paris Saint-Germain FC,Newcastle United FC,1,1,5.0,GROUP_STAGE,12,12,4,5,4,7,2,2,0,0,15,7,49.2,50.8,1.04,1.88,1,0,21,0,0,0,0
+569025da618d,champions_league,2023,2023-11-28,BSC Young Boys,FK Crvena Zvezda,2,0,5.0,GROUP_STAGE,15,10,4,3,5,5,0,2,0,0,12,15,61.2,38.8,0.93,1.1,1,0,51,1,0,0,0
+a8cfdc7db9b2,champions_league,2023,2023-11-28,Manchester City FC,RB Leipzig,3,2,5.0,GROUP_STAGE,15,14,5,6,7,6,1,2,0,0,9,10,60.6,39.4,3.64,2.37,2,0,16,1,0,1,2
+2419471bb7f7,champions_league,2023,2023-11-28,FC Barcelona,FC Porto,2,1,5.0,GROUP_STAGE,12,10,5,4,10,7,2,2,0,0,7,8,57.1,42.9,1.83,1.81,1,1,2,1,0,0,0
+6448cd0d0208,champions_league,2023,2023-11-29,FC Bayern München,FC København,0,0,5.0,GROUP_STAGE,14,14,6,5,8,4,1,1,0,0,12,8,48.2,51.8,0.11,0.63,0,0,0,0,0,0,0
+860bc5686b10,champions_league,2023,2023-11-29,Arsenal FC,Racing Club de Lens,6,0,5.0,GROUP_STAGE,14,10,4,3,2,2,0,2,0,0,16,15,44.0,56.0,5.84,0.38,4,0,68,0,0,1,0
+9791497ff076,champions_league,2023,2023-11-29,Sport Lisboa e Benfica,FC Internazionale Milano,3,3,5.0,GROUP_STAGE,19,15,9,6,6,6,1,0,1,0,12,11,55.3,44.7,2.07,2.84,1,0,52,0,0,0,2
+9a9ca521c04e,champions_league,2023,2023-11-29,Real Sociedad de Fútbol,FC Red Bull Salzburg,0,0,5.0,GROUP_STAGE,11,9,4,4,6,7,1,6,0,0,15,13,54.6,45.4,0.1,0.64,0,0,0,0,0,0,0
+a6c7e50dda0a,champions_league,2023,2023-11-29,Sporting Clube de Braga,1. FC Union Berlin,1,1,5.0,GROUP_STAGE,9,9,4,3,9,3,3,0,1,0,12,10,43.9,56.1,1.65,0.81,0,0,24,0,0,0,0
+fd6e3800cace,champions_league,2023,2023-11-29,Real Madrid CF,SSC Napoli,4,2,5.0,GROUP_STAGE,13,9,6,3,6,4,1,1,0,0,20,10,49.7,50.3,3.94,1.45,3,0,31,0,0,0,2
+7225bf09ea1f,champions_league,2023,2023-11-29,Sevilla FC,PSV,2,3,5.0,GROUP_STAGE,14,18,5,9,7,5,0,0,0,0,10,17,52.8,47.2,2.66,3.05,0,0,58,0,0,0,1
+dd2221dd57c5,champions_league,2023,2023-11-29,Galatasaray SK,Manchester United FC,3,3,5.0,GROUP_STAGE,12,14,5,5,4,7,1,0,0,0,8,10,58.4,41.6,3.07,1.84,1,0,35,1,0,0,1
+a0c8ffeebac9,champions_league,2023,2023-12-12,PSV,Arsenal FC,1,1,6.0,GROUP_STAGE,12,12,4,4,5,5,0,2,0,0,5,12,52.3,47.7,0.67,1.3,1,1,17,1,0,0,0
+519f9f31f61f,champions_league,2023,2023-12-12,Racing Club de Lens,Sevilla FC,2,1,6.0,GROUP_STAGE,8,12,3,3,4,3,2,1,0,0,13,8,44.6,55.4,2.12,1.27,1,1,2,1,0,0,0
+6cf9b786fe31,champions_league,2023,2023-12-12,1. FC Union Berlin,Real Madrid CF,2,3,6.0,GROUP_STAGE,12,13,6,4,6,3,3,3,0,0,14,6,51.8,48.2,1.9,2.57,0,2,9,0,0,0,0
+870e2ebd1c57,champions_league,2023,2023-12-12,SSC Napoli,Sporting Clube de Braga,2,0,6.0,GROUP_STAGE,17,5,7,1,9,3,2,2,0,0,8,14,47.6,52.4,1.5,0.16,1,0,39,1,0,0,0
+776f4f8729ed,champions_league,2023,2023-12-12,FC Internazionale Milano,Real Sociedad de Fútbol,0,0,6.0,GROUP_STAGE,10,10,3,4,4,3,1,0,0,0,17,7,40.0,60.0,0.68,0.1,0,0,0,0,0,0,0
+bfc0a267bc63,champions_league,2023,2023-12-12,FC Red Bull Salzburg,Sport Lisboa e Benfica,1,3,6.0,GROUP_STAGE,13,17,4,7,6,3,2,2,0,0,12,11,52.8,47.2,0.93,4.11,0,0,8,0,0,0,0
+ef28989d5004,champions_league,2023,2023-12-12,Manchester United FC,FC Bayern München,0,1,6.0,GROUP_STAGE,10,8,5,2,4,6,0,2,0,0,10,13,52.6,47.4,0.54,1.21,0,1,21,0,1,0,0
+6203454caccc,champions_league,2023,2023-12-12,FC København,Galatasaray SK,1,0,6.0,GROUP_STAGE,10,10,3,3,8,1,1,1,0,0,9,12,43.8,56.2,1.66,0.63,0,0,38,0,0,0,0
+d58e7ff2ab20,champions_league,2023,2023-12-13,FC Porto,FK Shakhtar Donetsk,5,3,6.0,GROUP_STAGE,14,11,4,3,6,5,0,4,0,0,9,12,45.9,54.1,4.4,2.45,1,1,66,0,1,2,0
+54664eb6f7b1,champions_league,2023,2023-12-13,Borussia Dortmund,Paris Saint-Germain FC,1,1,6.0,GROUP_STAGE,10,12,4,4,4,4,3,2,0,0,13,12,57.7,42.3,1.44,1.45,0,1,36,0,1,0,0
+1bc33ab2803a,champions_league,2023,2023-12-13,Newcastle United FC,AC Milan,1,2,6.0,GROUP_STAGE,15,12,7,5,5,3,1,1,0,0,8,12,44.0,56.0,1.5,2.27,1,1,87,1,0,0,1
+4118937b272d,champions_league,2023,2023-12-13,Royal Antwerp FC,FC Barcelona,3,2,6.0,GROUP_STAGE,16,10,6,4,6,4,1,1,0,0,11,12,42.4,57.6,2.89,1.69,0,1,21,0,1,1,0
+bd468f5022ce,champions_league,2023,2023-12-13,Club Atlético de Madrid,SS Lazio,2,0,6.0,GROUP_STAGE,10,10,5,4,12,4,1,4,0,0,12,13,57.0,43.0,2.35,0.76,0,0,52,0,0,1,0
+9fc572f27a74,champions_league,2023,2023-12-13,FK Crvena Zvezda,Manchester City FC,2,3,6.0,GROUP_STAGE,16,12,7,6,3,2,1,1,0,0,5,9,52.2,47.8,2.3,3.19,1,2,22,0,1,0,0
+af4cd5b6e221,champions_league,2023,2023-12-13,RB Leipzig,BSC Young Boys,2,1,6.0,GROUP_STAGE,19,8,9,2,6,3,0,6,0,0,12,13,38.8,61.2,1.95,1.11,2,0,81,0,0,0,1
+19068ff06924,champions_league,2023,2023-12-13,Celtic FC,Feyenoord Rotterdam,2,1,6.0,GROUP_STAGE,14,12,5,5,6,3,2,3,0,0,12,9,60.6,39.4,1.92,1.32,0,0,78,0,0,0,0
+58c7cef26c13,champions_league,2023,2024-02-13,FC København,Manchester City FC,1,3,1.0,LAST_16,13,12,5,4,5,4,1,3,0,0,13,10,57.8,42.2,0.41,2.63,1,0,81,1,0,0,1
+34e6882a1673,champions_league,2023,2024-02-13,RB Leipzig,Real Madrid CF,0,1,1.0,LAST_16,11,14,3,6,7,5,1,1,0,0,6,10,48.6,51.4,0.51,0.65,0,1,90,0,1,0,0
+ccf6a7532d60,champions_league,2023,2024-02-14,Paris Saint-Germain FC,Real Sociedad de Fútbol,2,0,1.0,LAST_16,15,12,6,4,4,5,3,0,0,0,13,15,49.6,50.4,2.7,0.1,1,0,71,1,0,1,0
+447d81f6cf6a,champions_league,2023,2024-02-14,SS Lazio,FC Bayern München,1,0,1.0,LAST_16,16,12,8,6,3,3,3,1,0,0,14,12,47.8,52.2,1.88,0.33,1,0,20,0,0,0,0
+9446d56c6c44,champions_league,2023,2024-02-20,FC Internazionale Milano,Club Atlético de Madrid,1,0,1.0,LAST_16,14,11,5,4,5,3,2,2,0,0,12,11,50.0,50.0,0.95,0.34,1,0,32,0,0,0,0
+d2d63b9e0a48,champions_league,2023,2024-02-20,PSV,Borussia Dortmund,1,1,1.0,LAST_16,21,13,7,5,5,4,5,1,0,0,12,15,49.0,51.0,1.99,1.98,1,0,9,0,0,0,0
+6f663e529378,champions_league,2023,2024-02-21,SSC Napoli,FC Barcelona,1,1,1.0,LAST_16,12,10,5,3,11,4,2,4,0,0,13,9,58.1,41.9,0.38,1.35,0,0,71,0,0,0,1
+7715445197d9,champions_league,2023,2024-02-21,FC Porto,Arsenal FC,1,0,1.0,LAST_16,9,8,3,3,3,3,1,0,0,1,10,5,44.6,55.4,1.45,0.1,0,0,39,0,0,0,0
+a55552db78ab,champions_league,2023,2024-03-05,Real Sociedad de Fútbol,Paris Saint-Germain FC,1,2,2.0,LAST_16,11,4,5,2,4,8,0,0,0,0,15,18,56.3,43.7,0.91,2.09,0,1,53,0,0,0,0
+e4830da3e21b,champions_league,2023,2024-03-05,FC Bayern München,SS Lazio,3,0,2.0,LAST_16,19,5,10,2,6,5,1,2,0,0,10,14,39.0,61.0,3.41,0.1,0,0,5,0,0,0,0
+8a1d46816d2c,champions_league,2023,2024-03-06,Manchester City FC,FC København,3,1,2.0,LAST_16,13,12,4,6,6,3,1,0,1,0,15,13,41.0,59.0,3.01,0.97,2,0,84,1,0,1,0
+23816d025120,champions_league,2023,2024-03-06,Real Madrid CF,RB Leipzig,1,1,2.0,LAST_16,11,11,5,4,6,4,2,1,0,0,12,11,61.3,38.7,1.61,0.85,1,0,11,1,0,0,0
+077191d62bdf,champions_league,2023,2024-03-12,Arsenal FC,FC Porto,5,2,2.0,LAST_16,18,9,5,2,6,2,3,2,0,0,17,12,58.4,41.6,5.2,2.16,1,0,30,0,0,2,0
+2f009051553f,champions_league,2023,2024-03-12,FC Barcelona,SSC Napoli,3,1,2.0,LAST_16,12,10,4,4,7,3,1,1,0,1,13,12,55.9,44.1,3.07,1.11,1,1,8,1,1,1,0
+703a3c451b1b,champions_league,2023,2024-03-13,Club Atlético de Madrid,FC Internazionale Milano,5,3,2.0,LAST_16,19,9,9,3,6,2,1,4,0,0,13,10,45.0,55.0,3.75,3.42,2,0,80,0,0,0,1
+088635e00385,champions_league,2023,2024-03-13,Borussia Dortmund,PSV,2,0,2.0,LAST_16,17,14,5,5,9,2,3,1,0,0,16,9,54.4,45.6,2.58,0.26,0,0,2,0,0,0,0
+6b029c2ad593,champions_league,2023,2024-04-09,Arsenal FC,FC Bayern München,2,2,1.0,QUARTER_FINALS,14,12,4,4,12,4,1,3,0,0,8,6,59.6,40.4,2.51,1.8,1,0,82,0,0,0,1
+f009689343d1,champions_league,2023,2024-04-09,Real Madrid CF,Manchester City FC,3,3,1.0,QUARTER_FINALS,13,6,6,1,8,5,3,2,0,0,15,11,61.1,38.9,2.89,3.33,1,2,38,0,0,1,0
+145a6985fdce,champions_league,2023,2024-04-10,Paris Saint-Germain FC,FC Barcelona,2,3,1.0,QUARTER_FINALS,11,11,3,3,5,4,1,2,0,0,13,15,59.9,40.1,1.99,3.5,1,1,85,0,0,0,1
+68c8907867b4,champions_league,2023,2024-04-10,Club Atlético de Madrid,Borussia Dortmund,2,1,1.0,QUARTER_FINALS,11,12,4,3,6,4,2,1,0,0,9,11,61.8,38.2,2.32,0.7,2,0,7,1,0,0,1
+17f6546a20ca,champions_league,2023,2024-04-16,Borussia Dortmund,Club Atlético de Madrid,4,2,2.0,QUARTER_FINALS,13,7,4,2,2,3,5,2,0,0,8,14,54.3,45.7,4.49,2.21,2,1,12,1,1,2,1
+037ba2791527,champions_league,2023,2024-04-16,FC Barcelona,Paris Saint-Germain FC,1,4,2.0,QUARTER_FINALS,12,14,5,7,4,5,0,0,0,0,12,15,59.8,40.2,0.33,3.99,1,3,35,0,0,0,0
+29fc6430b878,champions_league,2023,2024-04-17,FC Bayern München,Arsenal FC,1,0,2.0,QUARTER_FINALS,11,8,5,4,8,5,1,1,0,0,15,15,57.9,42.1,0.97,0.22,1,0,44,0,0,0,0
+52bdaaac031e,champions_league,2023,2024-04-17,Manchester City FC,Real Madrid CF,4,5,2.0,QUARTER_FINALS,17,15,5,5,2,5,4,2,0,0,14,14,57.3,42.7,4.38,5.09,3,0,48,1,0,0,2
+17acd391c052,champions_league,2023,2024-04-30,FC Bayern München,Real Madrid CF,2,2,1.0,SEMI_FINALS,12,11,6,5,2,4,1,0,0,0,12,12,54.1,45.9,2.07,1.81,1,0,4,0,0,1,0
+7977dfa8d953,champions_league,2023,2024-05-01,Borussia Dortmund,Paris Saint-Germain FC,1,0,1.0,SEMI_FINALS,11,14,4,6,8,2,3,2,0,0,7,10,52.9,47.1,1.02,0.1,0,0,60,0,0,0,0
+087c83eef21a,champions_league,2023,2024-05-07,Paris Saint-Germain FC,Borussia Dortmund,0,1,2.0,SEMI_FINALS,10,10,4,3,3,2,1,0,1,1,11,17,59.8,40.2,1.26,0.37,0,1,64,0,0,0,0
+400796548974,champions_league,2023,2024-05-08,Real Madrid CF,FC Bayern München,2,1,2.0,SEMI_FINALS,21,8,8,3,6,6,1,2,0,0,11,16,40.8,59.2,2.78,1.32,1,1,70,0,0,0,0
+0c3a39ec8395,champions_league,2023,2024-06-01,Borussia Dortmund,Real Madrid CF,0,2,,FINAL,9,16,4,8,1,4,2,1,0,0,12,13,48.1,51.9,0.1,1.76,0,1,36,0,0,0,0
+5fa08f1c476e,champions_league,2024,2024-09-17,BSC Young Boys,Aston Villa FC,0,3,1.0,LEAGUE_STAGE,8,6,3,2,2,4,3,1,0,0,10,11,38.8,61.2,0.1,3.21,0,1,48,0,0,0,0
+feab1f533da4,champions_league,2024,2024-09-17,Juventus FC,PSV,3,1,1.0,LEAGUE_STAGE,14,8,5,4,5,4,0,5,0,0,11,5,51.1,48.9,3.18,2.17,1,0,12,1,0,1,0
+92e4caf694c6,champions_league,2024,2024-09-17,Sporting Clube de Portugal,Lille OSC,2,0,1.0,LEAGUE_STAGE,18,15,8,4,3,8,1,2,0,0,6,16,53.9,46.1,1.9,0.1,0,0,17,0,0,2,0
+2d22a988a76e,champions_league,2024,2024-09-17,FC Bayern München,GNK Dinamo Zagreb,9,2,1.0,LEAGUE_STAGE,24,15,8,8,8,4,2,2,0,0,11,12,56.9,43.1,8.03,2.11,7,1,23,1,1,1,1
+c67b4abc8a89,champions_league,2024,2024-09-17,Real Madrid CF,VfB Stuttgart,3,1,1.0,LEAGUE_STAGE,9,15,4,5,2,6,4,1,0,0,11,12,40.6,59.4,2.34,0.98,3,0,7,2,0,0,0
+fde209d85e2d,champions_league,2024,2024-09-17,AC Milan,Liverpool FC,1,3,1.0,LEAGUE_STAGE,13,17,5,8,5,4,0,5,0,0,6,15,41.0,59.0,1.06,3.37,0,2,65,0,2,0,0
+0ae4064a2d87,champions_league,2024,2024-09-18,Club Brugge KV,Borussia Dortmund,0,3,1.0,LEAGUE_STAGE,12,15,6,6,4,6,2,2,0,0,8,9,52.5,47.5,0.42,3.61,0,2,28,0,2,0,1
+aa49da1b6237,champions_league,2024,2024-09-18,Celtic FC,ŠK Slovan Bratislava,5,1,1.0,LEAGUE_STAGE,20,13,9,4,3,5,0,6,0,0,12,10,48.3,51.7,4.54,0.64,2,0,20,0,0,0,0
+08d806b4bcbb,champions_league,2024,2024-09-18,Paris Saint-Germain FC,Girona FC,1,0,1.0,LEAGUE_STAGE,16,7,7,2,0,3,1,0,0,0,10,14,53.2,46.8,0.62,0.1,0,0,65,0,0,0,0
+00db8068f303,champions_league,2024,2024-09-18,Manchester City FC,FC Internazionale Milano,0,0,1.0,LEAGUE_STAGE,11,8,3,3,4,5,1,1,0,0,14,12,39.8,60.2,0.1,0.69,0,0,0,0,0,0,0
+a7384c6dd8ac,champions_league,2024,2024-09-18,AC Sparta Praha,FC Red Bull Salzburg,3,0,1.0,LEAGUE_STAGE,16,6,8,3,5,5,1,1,0,0,16,14,45.2,54.8,2.53,0.1,2,0,57,2,0,1,0
+54afefd6dab6,champions_league,2024,2024-09-18,Bologna FC 1909,FK Shakhtar Donetsk,0,0,1.0,LEAGUE_STAGE,19,8,8,3,9,3,1,1,0,0,7,9,43.3,56.7,0.44,0.25,0,0,0,0,0,0,0
+13e1ceb35a49,champions_league,2024,2024-09-19,Feyenoord Rotterdam,Bayer 04 Leverkusen,0,4,1.0,LEAGUE_STAGE,15,16,4,5,5,5,0,2,0,0,11,10,54.5,45.5,0.1,5.24,0,3,72,0,3,0,0
+1f6a07bf3256,champions_league,2024,2024-09-19,FK Crvena Zvezda,Sport Lisboa e Benfica,1,2,1.0,LEAGUE_STAGE,12,7,5,2,3,6,2,4,0,0,13,13,39.4,60.6,0.71,1.35,0,1,55,0,0,0,0
+fdeb4d107d09,champions_league,2024,2024-09-19,AS Monaco FC,FC Barcelona,2,1,1.0,LEAGUE_STAGE,11,12,4,3,1,3,1,2,0,0,15,8,58.8,41.2,2.0,1.71,2,0,62,1,0,0,1
+0dec9c59ff9f,champions_league,2024,2024-09-19,Stade Brestois 29,SK Sturm Graz,2,1,1.0,LEAGUE_STAGE,12,9,4,4,4,1,0,1,0,0,11,14,43.4,56.6,1.59,1.71,2,0,72,1,0,0,0
+32cc5bd145e5,champions_league,2024,2024-09-19,Atalanta BC,Arsenal FC,0,0,1.0,LEAGUE_STAGE,13,6,6,2,7,5,0,0,0,1,16,8,61.4,38.6,0.73,0.1,0,0,0,0,0,0,0
+9cf3f90dca1e,champions_league,2024,2024-09-19,Club Atlético de Madrid,RB Leipzig,2,1,1.0,LEAGUE_STAGE,15,14,5,6,3,2,3,3,0,0,7,14,60.3,39.7,1.91,1.37,1,1,1,0,1,1,0
+972b88e2aecf,champions_league,2024,2024-10-01,Arsenal FC,Paris Saint-Germain FC,2,0,2.0,LEAGUE_STAGE,16,7,5,2,11,5,2,0,0,0,10,14,51.8,48.2,1.83,0.28,0,0,80,0,0,1,0
+6a8a176a65fb,champions_league,2024,2024-10-01,Bayer 04 Leverkusen,AC Milan,1,0,2.0,LEAGUE_STAGE,9,11,3,4,10,7,2,4,0,0,12,15,39.7,60.3,1.2,0.24,1,0,55,1,0,0,0
+fa85d49721da,champions_league,2024,2024-10-01,FC Internazionale Milano,FK Crvena Zvezda,4,0,2.0,LEAGUE_STAGE,14,10,6,3,5,5,3,3,0,0,10,8,38.2,61.8,3.04,0.1,2,0,46,0,0,0,0
+dae83c2b3591,champions_league,2024,2024-10-01,FC Barcelona,BSC Young Boys,5,0,2.0,LEAGUE_STAGE,16,10,8,4,8,3,0,1,0,0,9,13,47.5,52.5,4.16,0.32,4,0,16,2,0,1,0
+db03fac89ab6,champions_league,2024,2024-10-01,VfB Stuttgart,AC Sparta Praha,1,1,2.0,LEAGUE_STAGE,10,15,4,4,7,6,0,0,0,0,8,14,42.4,57.6,0.15,0.82,1,0,12,0,0,0,0
+91b972be6401,champions_league,2024,2024-10-01,ŠK Slovan Bratislava,Manchester City FC,0,4,2.0,LEAGUE_STAGE,18,16,5,5,8,4,2,0,0,0,11,12,52.3,47.7,0.69,4.36,0,3,78,0,1,0,1
+842a3da343b9,champions_league,2024,2024-10-01,FC Red Bull Salzburg,Stade Brestois 29,0,4,2.0,LEAGUE_STAGE,10,18,3,7,6,4,1,1,0,0,11,10,55.9,44.1,0.38,4.18,0,1,73,0,0,0,0
+f777e266570d,champions_league,2024,2024-10-01,PSV,Sporting Clube de Portugal,1,1,2.0,LEAGUE_STAGE,8,12,2,6,5,6,1,3,0,0,11,15,49.0,51.0,1.48,0.55,0,0,68,0,0,1,0
+468f5d5cec18,champions_league,2024,2024-10-01,Borussia Dortmund,Celtic FC,7,1,2.0,LEAGUE_STAGE,18,12,8,5,5,3,1,2,0,0,17,14,48.6,51.4,5.87,1.08,5,1,29,2,0,0,0
+7c853d11628b,champions_league,2024,2024-10-02,GNK Dinamo Zagreb,AS Monaco FC,2,2,2.0,LEAGUE_STAGE,18,11,5,5,9,4,2,1,0,0,12,11,61.6,38.4,1.31,2.1,1,1,79,1,0,0,1
+4ce4219d110e,champions_league,2024,2024-10-02,Sport Lisboa e Benfica,Club Atlético de Madrid,4,0,2.0,LEAGUE_STAGE,13,8,5,3,5,4,9,3,0,0,16,12,48.8,51.2,3.23,0.1,2,0,44,0,0,1,0
+f62e59511879,champions_league,2024,2024-10-02,Lille OSC,Real Madrid CF,1,0,2.0,LEAGUE_STAGE,9,4,4,1,5,2,2,7,0,0,16,14,41.8,58.2,1.16,0.1,0,0,7,0,0,0,0
+44a3679ad458,champions_league,2024,2024-10-02,RB Leipzig,Juventus FC,2,3,2.0,LEAGUE_STAGE,14,11,6,4,4,4,0,1,0,0,14,11,39.4,60.6,2.42,2.62,2,1,6,1,1,0,2
+c5a2bc6c095d,champions_league,2024,2024-10-02,Liverpool FC,Bologna FC 1909,2,0,2.0,LEAGUE_STAGE,15,11,6,4,3,6,2,2,0,0,10,11,48.6,51.4,2.77,1.2,2,0,5,0,0,0,0
+2ec4d7e06c06,champions_league,2024,2024-10-02,SK Sturm Graz,Club Brugge KV,0,1,2.0,LEAGUE_STAGE,8,13,3,7,4,2,2,2,0,0,8,13,53.4,46.6,0.73,1.56,0,0,61,0,0,0,1
+c0667951fcd0,champions_league,2024,2024-10-02,Aston Villa FC,FC Bayern München,1,0,2.0,LEAGUE_STAGE,10,14,4,6,7,7,3,0,0,0,15,9,39.8,60.2,1.48,0.1,0,0,73,0,0,1,0
+8bb03fe888da,champions_league,2024,2024-10-02,FK Shakhtar Donetsk,Atalanta BC,0,3,2.0,LEAGUE_STAGE,13,8,4,2,7,6,0,1,0,0,9,12,46.4,53.6,0.14,2.21,0,2,84,0,0,0,1
+7300b2e0fa91,champions_league,2024,2024-10-02,Girona FC,Feyenoord Rotterdam,2,3,2.0,LEAGUE_STAGE,15,5,4,2,10,4,2,1,0,0,11,13,39.9,60.1,1.98,3.66,2,3,45,0,0,0,0
+7ce986f7d62e,champions_league,2024,2024-10-22,Juventus FC,VfB Stuttgart,0,1,3.0,LEAGUE_STAGE,8,12,3,6,4,2,0,0,0,0,9,10,43.6,56.4,0.17,0.84,0,1,48,0,0,0,0
+bb12c493899b,champions_league,2024,2024-10-22,Arsenal FC,FK Shakhtar Donetsk,1,0,3.0,LEAGUE_STAGE,8,8,3,2,4,7,0,1,0,0,12,8,39.0,61.0,0.95,0.1,0,0,58,0,0,0,0
+493d63bea6df,champions_league,2024,2024-10-22,Real Madrid CF,Borussia Dortmund,5,2,3.0,LEAGUE_STAGE,13,18,6,8,5,4,1,2,0,0,14,9,59.0,41.0,5.1,1.73,2,2,57,0,0,2,0
+1ff69f390bc9,champions_league,2024,2024-10-22,Paris Saint-Germain FC,PSV,1,1,3.0,LEAGUE_STAGE,4,8,1,4,3,10,2,1,0,1,14,12,45.1,54.9,1.32,0.64,1,0,44,1,0,0,0
+b7b6655cce32,champions_league,2024,2024-10-22,SK Sturm Graz,Sporting Clube de Portugal,0,2,3.0,LEAGUE_STAGE,16,17,8,7,2,2,5,4,0,0,9,11,42.3,57.7,0.45,2.59,0,2,10,0,0,0,0
+48b9716ad1e3,champions_league,2024,2024-10-22,Girona FC,ŠK Slovan Bratislava,2,0,3.0,LEAGUE_STAGE,13,13,4,6,4,2,2,1,0,1,6,13,57.9,42.1,1.17,0.1,0,0,40,0,0,1,0
+7f0868d30571,champions_league,2024,2024-10-22,Aston Villa FC,Bologna FC 1909,2,0,3.0,LEAGUE_STAGE,8,7,3,3,6,3,5,2,0,0,10,14,41.1,58.9,2.25,0.6,2,0,90,1,0,0,0
+7f683c5cb736,champions_league,2024,2024-10-22,AC Milan,Club Brugge KV,3,1,3.0,LEAGUE_STAGE,16,12,5,4,6,3,1,4,0,0,10,16,59.0,41.0,2.66,0.96,2,0,51,1,0,0,1
+10e8971531c6,champions_league,2024,2024-10-22,AS Monaco FC,FK Crvena Zvezda,5,1,3.0,LEAGUE_STAGE,12,14,5,5,6,3,0,4,0,0,11,12,56.9,43.1,4.41,0.77,4,0,78,2,0,1,0
+e25edb9d79c1,champions_league,2024,2024-10-23,FC Red Bull Salzburg,GNK Dinamo Zagreb,0,2,3.0,LEAGUE_STAGE,8,9,3,4,9,5,0,1,0,0,6,13,40.7,59.3,0.71,2.32,0,0,38,0,0,0,1
+fcada58c778d,champions_league,2024,2024-10-23,Sport Lisboa e Benfica,Feyenoord Rotterdam,1,3,3.0,LEAGUE_STAGE,14,14,4,5,0,3,1,3,0,0,11,11,50.7,49.3,1.12,3.71,1,3,9,1,0,0,0
+4f10b9b4400e,champions_league,2024,2024-10-23,Club Atlético de Madrid,Lille OSC,1,3,3.0,LEAGUE_STAGE,10,12,5,3,5,6,2,0,0,0,10,13,56.2,43.8,1.39,3.43,0,1,78,0,1,0,1
+f2ba96c60044,champions_league,2024,2024-10-23,RB Leipzig,Liverpool FC,0,1,3.0,LEAGUE_STAGE,16,9,5,3,5,9,2,4,0,0,8,10,46.0,54.0,0.59,1.5,0,1,18,0,0,0,0
+ed160da7b577,champions_league,2024,2024-10-23,Manchester City FC,AC Sparta Praha,5,0,3.0,LEAGUE_STAGE,11,7,6,2,5,4,0,2,1,0,12,14,48.0,52.0,4.94,1.42,1,0,84,0,0,0,0
+54739e75828e,champions_league,2024,2024-10-23,FC Barcelona,FC Bayern München,4,1,3.0,LEAGUE_STAGE,18,8,5,4,9,4,1,2,0,0,14,12,56.3,43.7,3.77,1.02,2,0,4,0,0,0,0
+a8ce77b754b2,champions_league,2024,2024-10-23,BSC Young Boys,FC Internazionale Milano,0,1,3.0,LEAGUE_STAGE,9,7,4,3,11,6,0,2,0,0,10,12,59.0,41.0,0.1,0.82,0,0,11,0,0,0,0
+f26fb3ddc586,champions_league,2024,2024-10-23,Atalanta BC,Celtic FC,0,0,3.0,LEAGUE_STAGE,7,14,3,4,4,3,1,2,0,0,14,14,57.6,42.4,0.1,0.1,0,0,0,0,0,0,0
+cd3561255459,champions_league,2024,2024-10-23,Stade Brestois 29,Bayer 04 Leverkusen,1,1,3.0,LEAGUE_STAGE,9,6,3,2,2,6,1,0,0,0,19,7,54.3,45.7,0.68,0.68,0,0,21,0,0,0,0
+f01b7b2cd5a9,champions_league,2024,2024-11-05,Lille OSC,Juventus FC,1,1,4.0,LEAGUE_STAGE,13,14,5,7,4,2,2,3,0,0,10,17,55.4,44.6,0.84,0.86,1,0,11,1,0,0,0
+3d57563bfe20,champions_league,2024,2024-11-05,Celtic FC,RB Leipzig,3,1,4.0,LEAGUE_STAGE,11,8,5,3,5,5,2,4,0,0,14,9,59.5,40.5,2.76,0.8,2,0,11,0,0,0,0
+3aa769afa24a,champions_league,2024,2024-11-05,Real Madrid CF,AC Milan,1,3,4.0,LEAGUE_STAGE,10,13,3,6,4,4,0,0,0,0,11,13,42.6,57.4,1.22,2.58,0,2,57,0,1,0,1
+6cc6fffa8448,champions_league,2024,2024-11-05,Liverpool FC,Bayer 04 Leverkusen,4,0,4.0,LEAGUE_STAGE,16,16,6,8,1,5,3,4,0,1,16,13,57.0,43.0,5.54,0.1,3,0,83,1,0,0,0
+c89d1643d837,champions_league,2024,2024-11-05,Borussia Dortmund,SK Sturm Graz,1,0,4.0,LEAGUE_STAGE,13,5,4,2,5,3,0,3,0,0,5,12,42.4,57.6,0.8,0.1,1,0,6,0,0,0,0
+58bb1fc5c08f,champions_league,2024,2024-11-05,Bologna FC 1909,AS Monaco FC,0,1,4.0,LEAGUE_STAGE,16,13,5,6,3,11,2,0,0,0,13,5,51.1,48.9,0.1,1.8,0,0,81,0,0,0,1
+c2ac4e8fe066,champions_league,2024,2024-11-05,Sporting Clube de Portugal,Manchester City FC,4,1,4.0,LEAGUE_STAGE,13,14,4,6,3,8,1,1,0,0,9,9,46.6,53.4,3.62,1.38,3,0,46,1,0,1,1
+f4419c8f9c9e,champions_league,2024,2024-11-05,PSV,Girona FC,4,0,4.0,LEAGUE_STAGE,13,7,6,2,4,1,0,2,0,0,9,13,51.1,48.9,3.86,0.1,1,0,3,1,0,0,0
+4eecdaf9ae9c,champions_league,2024,2024-11-05,ŠK Slovan Bratislava,GNK Dinamo Zagreb,1,4,4.0,LEAGUE_STAGE,12,14,4,6,3,5,0,1,0,0,9,10,48.3,51.7,1.76,4.39,0,1,68,0,0,1,0
+0384433de839,champions_league,2024,2024-11-06,FK Crvena Zvezda,FC Barcelona,2,5,4.0,LEAGUE_STAGE,14,7,6,2,3,1,2,2,0,0,13,19,48.8,51.2,1.79,4.67,1,3,90,1,1,0,2
+f7289cd488bd,champions_league,2024,2024-11-06,Feyenoord Rotterdam,FC Red Bull Salzburg,1,3,4.0,LEAGUE_STAGE,13,13,4,6,8,4,1,1,0,0,10,14,44.3,55.7,0.5,2.52,1,1,10,0,0,0,1
+a3b86f970b5b,champions_league,2024,2024-11-06,Paris Saint-Germain FC,Club Atlético de Madrid,1,2,4.0,LEAGUE_STAGE,12,10,3,3,4,6,0,1,0,0,9,11,45.5,54.5,0.77,2.72,1,2,16,0,1,0,0
+dc0f4a3919b5,champions_league,2024,2024-11-06,FC Internazionale Milano,Arsenal FC,1,0,4.0,LEAGUE_STAGE,12,12,4,5,9,4,4,1,0,0,8,9,48.8,51.2,0.62,0.43,0,0,51,0,0,0,0
+b5859eb6abf3,champions_league,2024,2024-11-06,FC Bayern München,Sport Lisboa e Benfica,1,0,4.0,LEAGUE_STAGE,11,10,4,3,4,5,1,1,0,0,13,12,53.3,46.7,0.94,0.68,0,0,64,0,0,0,0
+3245036a440e,champions_league,2024,2024-11-06,AC Sparta Praha,Stade Brestois 29,1,2,4.0,LEAGUE_STAGE,14,6,7,2,5,3,0,2,0,0,10,13,47.7,52.3,0.75,0.97,0,1,5,0,0,0,1
+4acaa1f0afa4,champions_league,2024,2024-11-06,FK Shakhtar Donetsk,BSC Young Boys,2,1,4.0,LEAGUE_STAGE,13,10,4,5,1,4,2,0,0,0,9,10,48.7,51.3,2.62,1.44,0,0,82,0,0,1,0
+33888c71c4cc,champions_league,2024,2024-11-06,Club Brugge KV,Aston Villa FC,1,0,4.0,LEAGUE_STAGE,12,11,4,4,5,3,1,4,0,0,18,13,45.9,54.1,0.1,0.46,1,0,45,0,0,0,0
+546ed998a941,champions_league,2024,2024-11-06,VfB Stuttgart,Atalanta BC,0,2,4.0,LEAGUE_STAGE,13,13,5,5,4,5,0,1,0,0,5,14,41.0,59.0,0.52,2.01,0,1,87,0,0,0,1
+31f00376fe6b,champions_league,2024,2024-11-26,Bayer 04 Leverkusen,FC Red Bull Salzburg,5,0,5.0,LEAGUE_STAGE,14,10,6,3,0,1,0,1,0,0,10,13,41.4,58.6,4.45,1.56,3,0,58,0,0,0,0
+11a66a2ba64e,champions_league,2024,2024-11-26,Manchester City FC,Feyenoord Rotterdam,3,3,5.0,LEAGUE_STAGE,12,9,3,3,4,6,4,1,0,0,11,9,49.6,50.4,3.5,3.21,1,1,78,0,1,1,1
+74524e84f9a9,champions_league,2024,2024-11-26,FC Internazionale Milano,RB Leipzig,1,0,5.0,LEAGUE_STAGE,9,13,2,6,5,6,0,1,0,0,17,13,48.0,52.0,0.93,0.69,0,0,39,0,0,1,0
+8f50d74b044f,champions_league,2024,2024-11-26,FC Barcelona,Stade Brestois 29,3,0,5.0,LEAGUE_STAGE,18,4,9,1,3,4,3,2,0,0,11,13,39.0,61.0,2.94,0.39,3,0,74,3,0,0,0
+94b6255e539c,champions_league,2024,2024-11-26,FC Bayern München,Paris Saint-Germain FC,1,0,5.0,LEAGUE_STAGE,13,2,4,0,4,8,2,2,0,0,15,11,42.0,58.0,1.43,0.55,0,0,73,0,0,0,0
+652990423f52,champions_league,2024,2024-11-26,BSC Young Boys,Atalanta BC,1,6,5.0,LEAGUE_STAGE,12,6,4,2,5,4,3,0,0,0,9,12,46.3,53.7,1.09,5.95,0,4,83,0,1,0,1
+879f47f62b21,champions_league,2024,2024-11-26,Sporting Clube de Portugal,Arsenal FC,1,5,5.0,LEAGUE_STAGE,10,18,4,6,3,0,1,3,0,0,12,6,53.4,46.6,0.72,5.08,1,3,29,0,1,0,0
+793f646066e2,champions_league,2024,2024-11-26,AC Sparta Praha,Club Atlético de Madrid,0,6,5.0,LEAGUE_STAGE,8,12,2,4,4,5,3,1,0,0,15,8,50.6,49.4,0.18,5.79,0,3,71,0,1,0,1
+932cf04e07f3,champions_league,2024,2024-11-26,ŠK Slovan Bratislava,AC Milan,2,3,5.0,LEAGUE_STAGE,14,13,4,6,7,4,4,3,0,0,14,9,38.6,61.4,2.9,3.37,0,0,62,0,0,0,0
+4eba6d380bc5,champions_league,2024,2024-11-27,GNK Dinamo Zagreb,Borussia Dortmund,0,3,5.0,LEAGUE_STAGE,8,6,4,2,5,3,1,0,0,0,14,14,39.0,61.0,0.62,2.63,0,3,18,0,1,0,0
+ecd82066a933,champions_league,2024,2024-11-27,Celtic FC,Club Brugge KV,1,1,5.0,LEAGUE_STAGE,11,6,5,2,7,4,1,4,0,0,10,11,47.5,52.5,1.84,0.26,1,0,65,0,0,0,0
+6d5bc69b17d7,champions_league,2024,2024-11-27,Liverpool FC,Real Madrid CF,2,0,5.0,LEAGUE_STAGE,13,10,4,5,7,3,3,4,0,0,12,13,47.3,52.7,2.09,0.79,0,0,13,0,0,0,0
+b638118842af,champions_league,2024,2024-11-27,Bologna FC 1909,Lille OSC,1,2,5.0,LEAGUE_STAGE,14,7,5,3,7,6,3,1,0,0,11,14,46.8,53.2,0.77,1.45,0,1,10,0,1,0,0
+d24270d70ba4,champions_league,2024,2024-11-27,PSV,FK Shakhtar Donetsk,3,2,5.0,LEAGUE_STAGE,14,10,6,3,5,5,1,1,0,0,11,18,45.9,54.1,3.05,1.51,2,0,69,0,0,1,1
+3048eff4ff3b,champions_league,2024,2024-11-27,AS Monaco FC,Sport Lisboa e Benfica,2,3,5.0,LEAGUE_STAGE,11,17,3,7,3,3,1,1,0,0,12,11,50.1,49.9,2.02,2.85,2,1,61,0,1,0,0
+53470170c49d,champions_league,2024,2024-11-27,FK Crvena Zvezda,VfB Stuttgart,5,1,5.0,LEAGUE_STAGE,14,14,5,7,6,5,3,1,0,0,13,10,57.5,42.5,5.35,0.76,3,0,51,0,0,0,0
+05d66335cb38,champions_league,2024,2024-11-27,SK Sturm Graz,Girona FC,1,0,5.0,LEAGUE_STAGE,15,13,4,6,7,4,3,1,0,0,9,8,44.0,56.0,0.45,0.2,1,0,21,1,0,0,0
+681139b5c80f,champions_league,2024,2024-11-27,Aston Villa FC,Juventus FC,0,0,5.0,LEAGUE_STAGE,18,3,5,0,4,2,2,2,0,0,8,6,44.9,55.1,0.73,0.43,0,0,0,0,0,0,0
+2dd8c9d0ca4d,champions_league,2024,2024-12-10,FK Shakhtar Donetsk,FC Bayern München,1,5,6.0,LEAGUE_STAGE,7,10,2,5,6,4,1,1,0,0,11,11,44.3,55.7,1.01,4.84,0,4,27,0,0,0,0
+1804b89f9d93,champions_league,2024,2024-12-10,Club Brugge KV,Sporting Clube de Portugal,2,1,6.0,LEAGUE_STAGE,12,7,5,3,10,3,0,0,0,0,15,7,61.0,39.0,2.46,0.81,0,1,89,0,0,0,0
+21099acaa6ea,champions_league,2024,2024-12-10,Bayer 04 Leverkusen,FC Internazionale Milano,1,0,6.0,LEAGUE_STAGE,11,7,3,2,6,3,1,3,0,0,8,7,54.9,45.1,2.04,0.48,0,0,41,0,0,0,0
+c45be5b10ea9,champions_league,2024,2024-12-10,Atalanta BC,Real Madrid CF,2,3,6.0,LEAGUE_STAGE,11,12,3,5,6,8,3,1,0,0,10,14,38.5,61.5,1.32,2.97,1,1,8,0,0,0,1
+e33b2171f07f,champions_league,2024,2024-12-10,FC Red Bull Salzburg,Paris Saint-Germain FC,0,3,6.0,LEAGUE_STAGE,12,9,4,4,2,6,3,2,0,0,14,9,54.6,45.4,0.1,2.68,0,1,16,0,0,0,0
+e84e710badb4,champions_league,2024,2024-12-10,Stade Brestois 29,PSV,1,0,6.0,LEAGUE_STAGE,15,8,7,3,5,4,0,2,0,0,12,6,49.4,50.6,1.55,0.1,0,0,75,0,0,1,0
+1f03bcd907bd,champions_league,2024,2024-12-10,GNK Dinamo Zagreb,Celtic FC,0,0,6.0,LEAGUE_STAGE,9,9,4,4,10,2,1,2,0,1,12,6,52.0,48.0,0.27,0.44,0,0,0,0,0,0,0
+2c7f5a7115f3,champions_league,2024,2024-12-10,Girona FC,Liverpool FC,0,1,6.0,LEAGUE_STAGE,12,6,4,3,4,5,3,1,0,0,13,7,49.8,50.2,0.1,0.78,0,0,54,0,0,0,0
+04cbace3a342,champions_league,2024,2024-12-10,RB Leipzig,Aston Villa FC,2,3,6.0,LEAGUE_STAGE,14,10,7,3,5,6,1,2,0,0,10,13,49.5,50.5,2.23,2.76,0,1,25,0,0,1,1
+e85748255c1f,champions_league,2024,2024-12-11,Feyenoord Rotterdam,AC Sparta Praha,4,2,6.0,LEAGUE_STAGE,16,13,6,6,6,2,1,1,0,0,10,17,49.9,50.1,3.14,2.29,2,2,2,0,1,0,0
+b3b21544f03b,champions_league,2024,2024-12-11,Juventus FC,Manchester City FC,2,0,6.0,LEAGUE_STAGE,10,11,5,4,9,5,2,1,0,0,7,12,45.2,54.8,2.36,0.75,1,0,68,1,0,1,0
+f72736b5b89a,champions_league,2024,2024-12-11,Arsenal FC,AS Monaco FC,3,0,6.0,LEAGUE_STAGE,10,11,5,5,5,3,3,6,0,0,10,18,61.9,38.1,2.69,0.18,1,0,2,0,0,0,0
+79b0c6f4c506,champions_league,2024,2024-12-11,Sport Lisboa e Benfica,Bologna FC 1909,0,0,6.0,LEAGUE_STAGE,13,10,4,5,4,1,0,3,0,0,11,7,59.9,40.1,0.1,0.1,0,0,0,0,0,0,0
+4bee8acf99f0,champions_league,2024,2024-12-11,AC Milan,FK Crvena Zvezda,2,1,6.0,LEAGUE_STAGE,10,16,4,5,4,1,3,1,0,0,11,12,45.7,54.3,1.58,1.25,1,1,5,1,1,1,0
+5baac1bda04a,champions_league,2024,2024-12-11,VfB Stuttgart,BSC Young Boys,5,1,6.0,LEAGUE_STAGE,17,11,6,3,4,3,4,1,0,0,13,10,40.6,59.4,5.03,1.11,3,0,61,1,0,2,0
+0ff8f15fc9c3,champions_league,2024,2024-12-11,Lille OSC,SK Sturm Graz,3,2,6.0,LEAGUE_STAGE,19,14,6,6,1,5,2,0,0,0,13,14,46.3,53.7,2.9,1.75,1,1,18,0,0,1,0
+e055f138ccc5,champions_league,2024,2024-12-11,Club Atlético de Madrid,ŠK Slovan Bratislava,3,1,6.0,LEAGUE_STAGE,14,10,7,5,2,6,0,1,0,0,18,9,51.8,48.2,2.49,0.76,0,1,11,0,0,0,0
+0dba022ea37c,champions_league,2024,2024-12-11,Borussia Dortmund,FC Barcelona,2,3,6.0,LEAGUE_STAGE,4,10,1,5,12,6,2,2,0,0,18,14,40.4,59.6,2.05,2.78,2,1,37,1,0,0,0
+6a2c8795d73d,champions_league,2024,2025-01-21,Sport Lisboa e Benfica,FC Barcelona,4,5,7.0,LEAGUE_STAGE,16,16,8,8,7,2,3,1,0,0,15,18,56.1,43.9,3.15,4.96,1,3,22,1,3,0,0
+7e25b5a4d139,champions_league,2024,2025-01-21,FK Crvena Zvezda,PSV,2,3,7.0,LEAGUE_STAGE,11,14,4,5,5,7,4,3,0,0,9,14,40.2,59.8,1.83,3.01,0,2,40,0,1,0,0
+a5eafd31a549,champions_league,2024,2025-01-21,Club Brugge KV,Juventus FC,0,0,7.0,LEAGUE_STAGE,8,13,3,4,4,1,2,5,0,0,11,9,45.9,54.1,1.18,0.1,0,0,0,0,0,0,0
+cb3054122edc,champions_league,2024,2025-01-21,Club Atlético de Madrid,Bayer 04 Leverkusen,2,1,7.0,LEAGUE_STAGE,9,10,4,5,4,5,4,3,0,0,15,7,47.0,53.0,2.12,0.66,0,0,88,0,0,1,0
+f3bf10b6b3b8,champions_league,2024,2025-01-21,Bologna FC 1909,Borussia Dortmund,2,1,7.0,LEAGUE_STAGE,11,12,5,4,4,2,1,2,0,1,12,5,44.3,55.7,2.06,0.87,1,1,84,0,0,0,0
+29523ce622f9,champions_league,2024,2025-01-21,ŠK Slovan Bratislava,VfB Stuttgart,1,3,7.0,LEAGUE_STAGE,9,16,3,5,4,2,1,3,0,0,12,17,46.6,53.4,1.04,3.15,1,2,40,0,1,0,1
+8c65b20c4211,champions_league,2024,2025-01-21,AS Monaco FC,Aston Villa FC,1,0,7.0,LEAGUE_STAGE,9,12,3,5,5,2,1,2,0,0,13,13,55.7,44.3,0.82,0.1,1,0,52,0,0,0,0
+67ee3686ef0a,champions_league,2024,2025-01-21,Liverpool FC,Lille OSC,2,1,7.0,LEAGUE_STAGE,19,9,8,3,4,3,3,3,0,0,9,13,54.6,45.4,2.86,1.77,1,0,78,0,0,1,0
+7931e6c421ed,champions_league,2024,2025-01-21,Atalanta BC,SK Sturm Graz,5,0,7.0,LEAGUE_STAGE,18,13,5,7,5,4,4,2,0,0,9,12,57.8,42.2,5.61,1.31,2,0,1,1,0,1,0
+508f8d31798b,champions_league,2024,2025-01-22,Feyenoord Rotterdam,FC Bayern München,3,0,7.0,LEAGUE_STAGE,16,11,7,5,4,8,3,2,0,0,10,7,43.6,56.4,3.19,0.42,1,0,19,0,0,0,0
+23c9cf3a6c4c,champions_league,2024,2025-01-22,RB Leipzig,Sporting Clube de Portugal,2,1,7.0,LEAGUE_STAGE,17,13,8,5,4,2,3,1,1,0,9,10,55.4,44.6,0.99,0.65,1,1,9,0,1,0,0
+dc2884a1f9fc,champions_league,2024,2025-01-22,FK Shakhtar Donetsk,Stade Brestois 29,2,0,7.0,LEAGUE_STAGE,11,10,6,4,4,5,1,3,0,0,14,13,51.0,49.0,1.7,0.72,2,0,18,2,0,0,0
+05c6a7f8f9ca,champions_league,2024,2025-01-22,AC Sparta Praha,FC Internazionale Milano,0,1,7.0,LEAGUE_STAGE,11,6,5,2,1,3,2,3,0,0,8,12,56.4,43.6,0.49,1.5,0,0,49,0,0,0,1
+5028e58fe18a,champions_league,2024,2025-01-22,Paris Saint-Germain FC,Manchester City FC,4,2,7.0,LEAGUE_STAGE,11,11,3,6,5,1,1,2,0,0,10,7,47.0,53.0,4.71,3.34,1,1,29,0,0,2,1
+fc025f60f09f,champions_league,2024,2025-01-22,Real Madrid CF,FC Red Bull Salzburg,5,1,7.0,LEAGUE_STAGE,17,6,7,3,2,3,2,5,0,0,13,13,58.0,42.0,5.55,0.67,2,0,36,1,0,1,0
+256f90c1a6a2,champions_league,2024,2025-01-22,AC Milan,Girona FC,1,0,7.0,LEAGUE_STAGE,11,10,3,4,1,7,3,4,0,0,8,11,42.5,57.5,1.25,0.41,1,0,3,1,0,0,0
+c0c7a865d87f,champions_league,2024,2025-01-22,Arsenal FC,GNK Dinamo Zagreb,3,0,7.0,LEAGUE_STAGE,15,12,4,5,4,5,1,0,0,1,15,13,43.8,56.2,0.81,0.64,2,0,6,2,0,1,0
+36d43a6ac91a,champions_league,2024,2025-01-22,Celtic FC,BSC Young Boys,1,0,7.0,LEAGUE_STAGE,18,4,7,1,6,3,0,4,0,0,7,12,47.7,52.3,1.4,0.1,1,0,38,0,0,0,0
+9e2f775295e2,champions_league,2024,2025-01-29,Bayer 04 Leverkusen,AC Sparta Praha,2,0,8.0,LEAGUE_STAGE,10,12,3,5,2,3,2,0,0,0,21,5,42.0,58.0,2.45,0.1,1,0,83,0,0,0,0
+9e6b74679c98,champions_league,2024,2025-01-29,Juventus FC,Sport Lisboa e Benfica,0,2,8.0,LEAGUE_STAGE,13,10,6,3,5,5,1,3,0,1,11,15,61.0,39.0,0.3,1.9,0,1,1,0,1,0,0
+e2566f5b4d1b,champions_league,2024,2025-01-29,GNK Dinamo Zagreb,AC Milan,2,1,8.0,LEAGUE_STAGE,11,9,5,2,3,0,1,2,0,0,12,10,47.9,52.1,1.04,1.66,1,1,80,0,1,1,0
+e02eec854a3b,champions_league,2024,2025-01-29,VfB Stuttgart,Paris Saint-Germain FC,1,4,8.0,LEAGUE_STAGE,9,18,3,9,4,4,1,0,0,0,6,13,55.4,44.6,1.68,5.16,0,3,16,0,0,0,0
+3d9d195df002,champions_league,2024,2025-01-29,PSV,Liverpool FC,3,2,8.0,LEAGUE_STAGE,11,14,5,6,9,6,1,3,0,0,14,18,38.4,61.6,2.97,1.43,0,2,33,0,1,2,0
+2fbbf5e5a39b,champions_league,2024,2025-01-29,FC Red Bull Salzburg,Club Atlético de Madrid,1,4,8.0,LEAGUE_STAGE,8,15,3,5,3,6,1,0,0,0,8,11,57.6,42.4,1.75,3.64,1,1,11,0,1,0,0
+9908c370a1d5,champions_league,2024,2025-01-29,Manchester City FC,Club Brugge KV,3,1,8.0,LEAGUE_STAGE,15,9,7,3,5,2,0,1,0,0,11,11,50.0,50.0,2.21,0.62,1,1,59,0,0,2,0
+d4980935eabe,champions_league,2024,2025-01-29,Lille OSC,Feyenoord Rotterdam,6,1,8.0,LEAGUE_STAGE,17,9,7,2,3,9,1,0,0,0,14,14,53.3,46.7,5.72,0.77,2,0,37,2,0,2,0
+823074bb54c7,champions_league,2024,2025-01-29,FC Internazionale Milano,AS Monaco FC,3,0,8.0,LEAGUE_STAGE,13,10,4,3,3,3,0,0,0,0,13,12,51.3,48.7,3.03,0.37,0,0,32,0,0,0,0
+7a7dc6d2f106,champions_league,2024,2025-01-29,Stade Brestois 29,Real Madrid CF,0,3,8.0,LEAGUE_STAGE,10,12,5,6,6,4,4,1,0,0,17,13,44.1,55.9,0.1,2.64,0,2,25,0,1,0,1
+ab166bcd3929,champions_league,2024,2025-01-29,Borussia Dortmund,FK Shakhtar Donetsk,3,1,8.0,LEAGUE_STAGE,16,6,5,2,9,2,5,1,0,0,12,8,47.1,52.9,3.56,0.95,0,1,61,0,0,1,0
+79a855ef5b9d,champions_league,2024,2025-01-29,FC Bayern München,ŠK Slovan Bratislava,3,1,8.0,LEAGUE_STAGE,13,9,6,3,4,5,3,2,0,0,13,11,55.9,44.1,3.5,1.74,1,0,37,0,0,1,1
+318df8db7d70,champions_league,2024,2025-01-29,SK Sturm Graz,RB Leipzig,1,0,8.0,LEAGUE_STAGE,16,13,7,5,4,3,3,1,0,0,10,9,39.2,60.8,1.13,0.1,0,0,76,0,0,0,0
+7318d15d5344,champions_league,2024,2025-01-29,Girona FC,Arsenal FC,1,2,8.0,LEAGUE_STAGE,15,6,6,3,2,3,3,1,0,0,19,13,58.6,41.4,0.9,3.06,1,1,32,0,1,0,0
+a378f4037a7b,champions_league,2024,2025-01-29,Aston Villa FC,Celtic FC,4,2,8.0,LEAGUE_STAGE,10,9,3,4,4,3,1,1,0,0,15,13,56.9,43.1,4.23,2.36,1,2,39,0,0,1,0
+4bb154fd195e,champions_league,2024,2025-01-29,BSC Young Boys,FK Crvena Zvezda,0,1,8.0,LEAGUE_STAGE,12,7,5,2,6,4,0,3,0,0,12,21,53.0,47.0,0.38,1.3,0,0,49,0,0,0,0
+71fdd8dce068,champions_league,2024,2025-01-29,Sporting Clube de Portugal,Bologna FC 1909,1,1,8.0,LEAGUE_STAGE,15,9,6,3,6,5,1,2,0,0,6,11,61.7,38.3,1.77,1.5,0,1,23,0,0,0,0
+1d0e3fecdf6c,champions_league,2024,2025-01-29,FC Barcelona,Atalanta BC,2,2,8.0,LEAGUE_STAGE,11,15,4,6,8,4,0,4,0,0,13,13,56.3,43.7,2.13,1.94,2,1,34,0,0,0,0
+ba9900a1aa38,champions_league,2024,2025-02-11,Sporting Clube de Portugal,Borussia Dortmund,0,3,1.0,PLAYOFFS,11,11,3,3,4,3,4,5,0,0,14,10,51.5,48.5,0.1,2.66,0,3,51,0,1,0,0
+261d05367f29,champions_league,2024,2025-02-11,Stade Brestois 29,Paris Saint-Germain FC,0,3,1.0,PLAYOFFS,9,12,3,4,4,5,1,1,0,0,18,9,53.7,46.3,1.33,2.28,0,2,90,0,2,0,1
+7a02a35687da,champions_league,2024,2025-02-11,Manchester City FC,Real Madrid CF,2,3,1.0,PLAYOFFS,11,5,5,2,3,6,1,0,0,0,14,9,42.1,57.9,2.6,2.98,0,1,30,0,0,0,1
+c6c4feed917d,champions_league,2024,2025-02-11,Juventus FC,PSV,2,1,1.0,PLAYOFFS,12,8,4,4,6,3,3,1,0,0,10,17,43.1,56.9,2.6,1.67,0,0,70,0,0,1,0
+c8ba9ef7da66,champions_league,2024,2025-02-12,Feyenoord Rotterdam,AC Milan,1,0,1.0,PLAYOFFS,10,14,4,5,5,4,0,3,0,0,8,8,38.7,61.3,0.93,0.87,1,0,49,0,0,0,0
+dc1bb36c0fbd,champions_league,2024,2025-02-12,Celtic FC,FC Bayern München,1,2,1.0,PLAYOFFS,14,9,5,4,5,5,1,3,0,0,11,11,39.3,60.7,0.87,2.55,0,2,42,0,1,0,0
+c2b1d45ead48,champions_league,2024,2025-02-12,Club Brugge KV,Atalanta BC,2,1,1.0,PLAYOFFS,7,14,2,7,4,7,3,2,0,0,11,18,60.3,39.7,2.76,0.28,2,0,43,0,0,0,0
+16a1a0debae9,champions_league,2024,2025-02-12,AS Monaco FC,Sport Lisboa e Benfica,0,1,1.0,PLAYOFFS,11,7,5,3,6,4,5,4,0,0,11,10,47.2,52.8,0.23,1.62,0,1,45,0,0,0,0
+68c77f1fd2f4,champions_league,2024,2025-02-18,AC Milan,Feyenoord Rotterdam,1,1,2.0,PLAYOFFS,12,9,5,2,5,2,2,1,0,0,12,8,48.4,51.6,0.71,0.92,0,0,10,0,0,1,0
+f7e7c60741d9,champions_league,2024,2025-02-18,Sport Lisboa e Benfica,AS Monaco FC,3,3,2.0,PLAYOFFS,15,11,5,3,1,3,2,3,0,0,14,16,40.0,60.0,3.49,1.92,1,2,35,0,0,1,0
+1f1b65d09c3f,champions_league,2024,2025-02-18,FC Bayern München,Celtic FC,1,1,2.0,PLAYOFFS,14,18,5,7,5,4,4,1,0,0,16,9,40.5,59.5,1.08,0.66,1,1,12,1,0,0,0
+128b620303a0,champions_league,2024,2025-02-18,Atalanta BC,Club Brugge KV,1,3,2.0,PLAYOFFS,15,18,7,5,6,5,4,1,0,0,19,11,46.5,53.5,0.98,3.51,1,1,72,1,0,0,2
+a5b32a600d5e,champions_league,2024,2025-02-19,Real Madrid CF,Manchester City FC,3,1,2.0,PLAYOFFS,14,8,5,2,6,6,0,2,1,0,11,17,55.3,44.7,2.87,1.78,0,1,80,0,0,2,0
+052bebd51e04,champions_league,2024,2025-02-19,PSV,Juventus FC,3,1,2.0,PLAYOFFS,10,7,5,3,10,9,1,3,0,0,16,14,47.1,52.9,2.43,1.82,2,0,42,0,0,0,0
+41906742538b,champions_league,2024,2025-02-19,Borussia Dortmund,Sporting Clube de Portugal,0,0,2.0,PLAYOFFS,12,14,6,6,1,8,1,3,0,0,13,12,59.7,40.3,0.49,0.1,0,0,0,0,0,0,0
+3e3d317c7418,champions_league,2024,2025-02-19,Paris Saint-Germain FC,Stade Brestois 29,7,0,2.0,PLAYOFFS,23,8,8,2,4,4,1,3,0,0,16,13,41.3,58.7,7.66,0.1,5,0,32,1,0,0,0
+93ca5c570982,champions_league,2024,2025-03-04,Real Madrid CF,Club Atlético de Madrid,2,1,1.0,LAST_16,18,10,7,5,5,0,1,3,0,0,14,11,49.8,50.2,2.48,1.24,1,1,73,0,0,0,0
+a93339f9b8d1,champions_league,2024,2025-03-04,PSV,Arsenal FC,1,7,1.0,LAST_16,9,17,4,8,5,4,0,0,0,0,11,10,42.8,57.2,1.03,7.46,0,3,53,0,1,0,1
+537457c47a1f,champions_league,2024,2025-03-04,Borussia Dortmund,Lille OSC,1,1,1.0,LAST_16,14,9,5,3,8,6,1,2,0,0,12,10,54.2,45.8,1.4,0.87,1,0,49,0,0,0,1
+e482252ae412,champions_league,2024,2025-03-04,Club Brugge KV,Aston Villa FC,1,3,1.0,LAST_16,12,9,4,3,2,3,2,0,0,0,15,11,52.5,47.5,1.22,3.86,0,2,82,0,0,1,0
+795e97459789,champions_league,2024,2025-03-05,Feyenoord Rotterdam,FC Internazionale Milano,0,2,1.0,LAST_16,9,12,4,5,9,4,1,2,0,0,16,7,39.8,60.2,1.01,1.51,0,0,54,0,0,0,1
+eed5037da7e0,champions_league,2024,2025-03-05,Paris Saint-Germain FC,Liverpool FC,0,1,1.0,LAST_16,8,10,3,5,4,8,1,0,0,0,13,11,51.0,49.0,0.1,1.12,0,0,14,0,0,0,0
+11ce58834fdf,champions_league,2024,2025-03-05,FC Bayern München,Bayer 04 Leverkusen,3,0,1.0,LAST_16,14,4,4,1,6,5,0,0,0,0,6,7,56.5,43.5,3.24,0.1,0,0,83,0,0,2,0
+1f2189a40201,champions_league,2024,2025-03-05,Sport Lisboa e Benfica,FC Barcelona,0,1,1.0,LAST_16,10,11,5,4,5,3,3,4,1,0,13,12,47.6,52.4,0.66,0.53,0,1,66,0,0,0,0
+fc95a2124d8a,champions_league,2024,2025-03-11,FC Internazionale Milano,Feyenoord Rotterdam,2,1,2.0,LAST_16,10,12,4,5,2,8,0,6,0,0,10,11,45.5,54.5,1.9,1.47,1,0,41,0,0,0,0
+5fecab9b4f51,champions_league,2024,2025-03-11,Bayer 04 Leverkusen,FC Bayern München,0,2,2.0,LAST_16,17,13,5,5,4,3,2,2,0,0,11,10,39.6,60.4,0.14,2.57,0,2,32,0,2,0,0
+adbeb277c1eb,champions_league,2024,2025-03-11,Liverpool FC,Paris Saint-Germain FC,1,5,2.0,LAST_16,11,12,5,3,8,2,1,1,0,0,7,14,50.0,50.0,0.96,4.38,1,3,45,0,2,0,0
+49ab03f12214,champions_league,2024,2025-03-11,FC Barcelona,Sport Lisboa e Benfica,3,1,2.0,LAST_16,13,10,4,3,6,3,4,3,0,0,11,10,55.9,44.1,2.67,1.37,0,0,89,0,0,1,0
+7ed5d866660a,champions_league,2024,2025-03-12,Lille OSC,Borussia Dortmund,1,2,2.0,LAST_16,10,16,4,8,4,3,5,1,0,0,11,16,50.4,49.6,1.76,1.81,0,2,24,0,0,0,0
+d165ec8910c3,champions_league,2024,2025-03-12,Aston Villa FC,Club Brugge KV,3,0,2.0,LAST_16,10,11,3,4,2,7,4,5,0,0,12,11,42.5,57.5,3.33,0.29,0,0,50,0,0,1,0
+fa26021f6de9,champions_league,2024,2025-03-12,Club Atlético de Madrid,Real Madrid CF,3,4,2.0,LAST_16,13,15,4,5,5,9,2,2,0,0,11,8,38.1,61.9,3.54,3.51,3,2,63,0,2,0,0
+b2ee63db91da,champions_league,2024,2025-03-12,Arsenal FC,PSV,2,2,2.0,LAST_16,13,7,5,3,6,5,0,2,0,0,17,10,50.7,49.3,2.29,1.32,1,0,80,0,0,1,1
+0bc8d735bd18,champions_league,2024,2025-04-08,Arsenal FC,Real Madrid CF,3,0,1.0,QUARTER_FINALS,18,8,8,3,3,9,0,0,0,0,11,12,42.1,57.9,2.69,0.24,1,0,15,0,0,2,0
+8c73200dc95d,champions_league,2024,2025-04-08,FC Bayern München,FC Internazionale Milano,1,2,1.0,QUARTER_FINALS,9,18,3,8,11,0,1,1,0,0,17,9,42.4,57.6,1.57,2.07,0,1,63,0,0,1,0
+e5026efef784,champions_league,2024,2025-04-09,FC Barcelona,Borussia Dortmund,4,0,1.0,QUARTER_FINALS,15,9,5,3,3,7,1,0,0,0,12,6,39.3,60.7,3.78,0.7,2,0,53,1,0,0,0
+9fa6c532e97a,champions_league,2024,2025-04-09,Paris Saint-Germain FC,Aston Villa FC,3,1,1.0,QUARTER_FINALS,13,12,4,4,6,4,1,0,0,0,13,11,53.3,46.7,2.35,1.97,1,0,80,0,0,2,0
+03e447be5e03,champions_league,2024,2025-04-15,Aston Villa FC,Paris Saint-Germain FC,3,2,2.0,QUARTER_FINALS,13,10,5,4,1,5,2,1,0,1,8,8,54.4,45.6,2.27,1.57,0,2,29,0,1,0,0
+3ab5460d1861,champions_league,2024,2025-04-15,Borussia Dortmund,FC Barcelona,3,1,2.0,QUARTER_FINALS,18,8,7,2,8,6,1,1,0,0,15,11,50.9,49.1,2.51,0.53,1,0,47,0,0,0,0
+d9ab1529a4fa,champions_league,2024,2025-04-16,Real Madrid CF,Arsenal FC,1,2,2.0,QUARTER_FINALS,12,9,4,3,7,7,4,2,0,0,14,11,51.0,49.0,1.18,1.93,1,0,32,1,0,0,0
+28d3227c9550,champions_league,2024,2025-04-16,FC Internazionale Milano,FC Bayern München,2,2,2.0,QUARTER_FINALS,15,9,7,2,3,6,4,6,0,0,10,8,45.1,54.9,1.56,2.3,1,2,31,1,0,0,0
+256a16e55d8d,champions_league,2024,2025-04-29,Arsenal FC,Paris Saint-Germain FC,0,1,1.0,SEMI_FINALS,8,13,3,6,4,5,0,3,0,0,9,14,43.0,57.0,0.1,0.41,0,0,79,0,0,0,1
+59734fe6a958,champions_league,2024,2025-04-30,FC Barcelona,FC Internazionale Milano,3,3,1.0,SEMI_FINALS,13,11,4,4,4,8,1,3,0,0,13,11,41.3,58.7,3.84,3.04,3,1,38,1,0,0,0
+8cb2d79105c2,champions_league,2024,2025-05-06,FC Internazionale Milano,FC Barcelona,4,3,2.0,SEMI_FINALS,13,11,6,3,5,2,1,1,0,0,12,14,51.7,48.3,4.16,3.88,2,2,42,1,1,1,0
+45b096ef1eab,champions_league,2024,2025-05-07,Paris Saint-Germain FC,Arsenal FC,2,1,2.0,SEMI_FINALS,15,16,5,7,6,8,3,3,0,0,9,13,57.9,42.1,2.71,1.72,0,0,10,0,0,1,0
+c410f136cc6d,champions_league,2024,2025-05-31,Paris Saint-Germain FC,FC Internazionale Milano,5,0,0.0,FINAL,15,12,8,4,3,6,2,2,0,0,8,13,53.2,46.8,5.32,0.21,2,0,1,1,0,1,0

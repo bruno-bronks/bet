@@ -1,0 +1,144 @@
+{
+  "brasileirao/outcome": {
+    "competition": "brasileirao",
+    "model_type": "outcome",
+    "path": "C:\\Users\\user\\Documents\\Bruno\\Projetos\\bet\\models_artifacts\\brasileirao\\outcome.joblib",
+    "metrics": {
+      "accuracy": 0.4833,
+      "log_loss": 1.0317,
+      "brier_score_multiclass": 0.6182,
+      "per_class": {
+        "A": {
+          "precision": 0.5,
+          "recall": 0.179,
+          "f1-score": 0.264,
+          "support": 39.0
+        },
+        "D": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 29.0
+        },
+        "H": {
+          "precision": 0.486,
+          "recall": 0.981,
+          "f1-score": 0.65,
+          "support": 52.0
+        },
+        "macro avg": {
+          "precision": 0.329,
+          "recall": 0.387,
+          "f1-score": 0.305,
+          "support": 120.0
+        },
+        "weighted avg": {
+          "precision": 0.373,
+          "recall": 0.483,
+          "f1-score": 0.367,
+          "support": 120.0
+        }
+      }
+    },
+    "feature_count": 67
+  },
+  "brasileirao/goals": {
+    "competition": "brasileirao",
+    "model_type": "goals",
+    "path": "C:\\Users\\user\\Documents\\Bruno\\Projetos\\bet\\models_artifacts\\brasileirao\\goals.joblib",
+    "metrics": {
+      "mae_home": 0.923,
+      "mae_away": 0.792
+    },
+    "feature_count": 67
+  },
+  "brasileirao/corners": {
+    "competition": "brasileirao",
+    "model_type": "corners",
+    "path": "C:\\Users\\user\\Documents\\Bruno\\Projetos\\bet\\models_artifacts\\brasileirao\\corners.joblib",
+    "metrics": {},
+    "feature_count": 67
+  },
+  "brasileirao/cards": {
+    "competition": "brasileirao",
+    "model_type": "cards",
+    "path": "C:\\Users\\user\\Documents\\Bruno\\Projetos\\bet\\models_artifacts\\brasileirao\\cards.joblib",
+    "metrics": {},
+    "feature_count": 67
+  },
+  "brasileirao/time_window": {
+    "competition": "brasileirao",
+    "model_type": "time_window"
+  },
+  "champions_league/outcome": {
+    "competition": "champions_league",
+    "model_type": "outcome",
+    "path": "C:\\Users\\user\\Documents\\Bruno\\Projetos\\bet\\models_artifacts\\champions_league\\outcome.joblib",
+    "metrics": {
+      "accuracy": 0.6327,
+      "log_loss": 0.8739,
+      "brier_score_multiclass": 0.4975,
+      "per_class": {
+        "A": {
+          "precision": 0.667,
+          "recall": 0.588,
+          "f1-score": 0.625,
+          "support": 17.0
+        },
+        "D": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 11.0
+        },
+        "H": {
+          "precision": 0.618,
+          "recall": 1.0,
+          "f1-score": 0.764,
+          "support": 21.0
+        },
+        "macro avg": {
+          "precision": 0.428,
+          "recall": 0.529,
+          "f1-score": 0.463,
+          "support": 49.0
+        },
+        "weighted avg": {
+          "precision": 0.496,
+          "recall": 0.633,
+          "f1-score": 0.544,
+          "support": 49.0
+        }
+      }
+    },
+    "feature_count": 67
+  },
+  "champions_league/goals": {
+    "competition": "champions_league",
+    "model_type": "goals",
+    "path": "C:\\Users\\user\\Documents\\Bruno\\Projetos\\bet\\models_artifacts\\champions_league\\goals.joblib",
+    "metrics": {
+      "mae_home": 1.405,
+      "mae_away": 0.892
+    },
+    "feature_count": 67
+  },
+  "champions_league/corners": {
+    "competition": "champions_league",
+    "model_type": "corners",
+    "path": "C:\\Users\\user\\Documents\\Bruno\\Projetos\\bet\\models_artifacts\\champions_league\\corners.joblib",
+    "metrics": {},
+    "feature_count": 67
+  },
+  "champions_league/cards": {
+    "competition": "champions_league",
+    "model_type": "cards",
+    "path": "C:\\Users\\user\\Documents\\Bruno\\Projetos\\bet\\models_artifacts\\champions_league\\cards.joblib",
+    "metrics": {},
+    "feature_count": 67
+  },
+  "champions_league/time_window": {
+    "competition": "champions_league",
+    "model_type": "time_window"
+  }
+}
