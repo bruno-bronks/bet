@@ -12,7 +12,7 @@ import type { HistoryResponse } from '../types/history'
 
 const BASE = '/api/v1'
 
-const http = axios.create({ baseURL: '/', timeout: 30_000 })
+const http = axios.create({ baseURL: '/', timeout: 90_000 })
 
 // ── Response interceptor para erros ──────────────────────────────────────────
 http.interceptors.response.use(
